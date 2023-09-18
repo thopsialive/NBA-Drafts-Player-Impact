@@ -28,7 +28,7 @@ There are 30 teams. One in Canada and the rest in the US.
 
 Eastern Conference: 3 divisions of 5 teams on the east coast
 - Central: Detroit Pistons, Chicago Bulls, Indiana Pacers, Cleveland Cavaliers, Milwaukee Bucks
-- Southest: Atlanta Hawks, Charlotte Hornets, Washington Wizards, Miami Heat, Orlando Magic
+- Southeast: Atlanta Hawks, Charlotte Hornets, Washington Wizards, Miami Heat, Orlando Magic
 - Atlantic: Philadelphia 76ers, Brooklyn Nets, Boston Celtics, Toronto Raptors, New York Knicks
 
 Western Conference: 3 divisions of 5 teams on the west coast
