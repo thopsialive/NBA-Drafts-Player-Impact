@@ -24,6 +24,7 @@ For example, physical data of running backs, does hand size correlate to fumblin
 
 There are 30 teams. One in Canada and the rest in the US.
 
+![OpenAI Logo](https://www.example.com/openai-logo.png)
 <img src="nba conferences.png">
 
 Eastern Conference: 3 divisions of 5 teams on the east coast
@@ -182,5 +183,5 @@ Draft Night
 
 ## Final Focus Question
 
-Is the NBA competitively balance? 
+Is the NBA competitively balanced? 
 The NBA draft is there to ensure quality teams throughout the league. What is the impact of the best players drafted into the worst performing teams?
