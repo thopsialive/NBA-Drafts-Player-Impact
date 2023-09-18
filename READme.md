@@ -24,7 +24,7 @@ For example, physical data of running backs, does hand size correlate to fumblin
 
 There are 30 teams. One in Canada and the rest in the US.
 
-![NBA Conferences](https://images.app.goo.gl/FKoXmuLKyv1M7bfZ8)
+![NBA Conferences](https://github.com/thopsialive/NBA-Drafts-Player-Impact/blob/master/nba%20conferences.PNG)
 
 Eastern Conference: 3 divisions of 5 teams on the east coast
 - Central: Detroit Pistons, Chicago Bulls, Indiana Pacers, Cleveland Cavaliers, Milwaukee Bucks
