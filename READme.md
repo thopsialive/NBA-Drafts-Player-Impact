@@ -24,7 +24,7 @@ For example, physical data of running backs, does hand size correlate to fumblin
 
 There are 30 teams. One in Canada and the rest in the US.
 
-![NBA Conferences](https://github.com/thopsialive/NBA-Drafts-Player-Impact/blob/master/nba%20conferences.PNG)
+![NBA Conferences](https://github.com/thopsialive/NBA-Drafts-Player-Impact/blob/master/images/nba%20conferences.PNG)
 
 Eastern Conference: 3 divisions of 5 teams on the east coast
 - Central: Detroit Pistons, Chicago Bulls, Indiana Pacers, Cleveland Cavaliers, Milwaukee Bucks
@@ -45,7 +45,7 @@ Western Conference: 3 divisions of 5 teams on the west coast
 - Apr-May: Play-offs, draft lottery & combine
 - Jun: Finals, two best teams, draft night
 
-![NBA Schedule](https://github.com/thopsialive/NBA-Drafts-Player-Impact/blob/master/nba%20schedule.PNG)
+![NBA Schedule](https://github.com/thopsialive/NBA-Drafts-Player-Impact/blob/master/images/nba%20schedule.PNG)
 
 ## How many games does a team play?
 
@@ -69,7 +69,7 @@ So for the Western conference: **7th-pos vs 8th-pos**  AND  **9th-pos vs 10th-po
     **PLAY-IN GAME**: 7/8-loser plays 9/10-Winner, then winner here goes to playoffs, to 8th-seed
 The same goes for the Eastern conference.
 
-![NBA Play-In Seeds](https://github.com/thopsialive/NBA-Drafts-Player-Impact/blob/master/nba%20seeds.PNG)
+![NBA Play-In Seeds](https://github.com/thopsialive/NBA-Drafts-Player-Impact/blob/master/images/nba%20seeds.PNG)
 
 ## The Playoffs
 
